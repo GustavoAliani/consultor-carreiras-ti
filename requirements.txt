@@ -1,0 +1,5 @@
+streamlit>=1.30
+experta>=1.9.4
+frozendict
+schema
+pandas
