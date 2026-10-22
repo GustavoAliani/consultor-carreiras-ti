@@ -3,10 +3,6 @@
 Sistema Especialista baseado em regras (Python + **Experta** + **Streamlit**) que entrevista o usuário e recomenda
 a trilha de carreira em TI mais adequada entre 10 opções, justificando a decisão com as regras disparadas.
 
-- **Disciplina:** Inteligência Artificial — Ciência da Computação
-- **Instituição:** UNIPAC Barbacena
-- **Professor:** Felipe Roncalli de Paula Carneiro
-
 ## Trilhas cobertas
 
 Back-end · Front-end & UI/UX · Ciência de Dados e ML · Engenharia de Dados · Cibersegurança · DevOps & SRE ·
